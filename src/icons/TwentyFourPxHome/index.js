@@ -1,0 +1,1 @@
+export { TwentyFourPxHome } from "./TwentyFourPxHome";

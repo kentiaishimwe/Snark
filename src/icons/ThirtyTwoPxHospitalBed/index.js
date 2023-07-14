@@ -1,0 +1,1 @@
+export { ThirtyTwoPxHospitalBed } from "./ThirtyTwoPxHospitalBed";

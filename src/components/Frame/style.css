@@ -1,0 +1,40 @@
+.frame {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  justify-content: center;
+  padding: 0px 25px;
+  position: relative;
+  width: 86px;
+}
+
+.frame .group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/0c2c53e68e57e825de61f72299f985da/img/-24px---video-6.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  margin-left: -17.5px;
+  min-width: 24px;
+  position: relative;
+}
+
+.frame .walk-in {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame .default {
+  margin-right: -20px;
+}
+
+.frame .variant-2 {
+  margin-right: -17.5px;
+}
